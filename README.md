@@ -1,6 +1,6 @@
 # Hi visitor 👋
 
-I'm Jan Garaj, consultant for my Monitoring Artist company, mainly focused on monitoring 📣, cloud ☁️, authentication 🔒 projects.
+I'm Jan Garaj, consultant for my Monitoring Artist company, mainly focused on cloud ☁️, authentication 🔒, monitoring 📣 projects.
 Working, Devopsing, Dockerising, Grafanasing, Keycloaking, Clouding, Lambdasing for customers around the globe. 
 If you are using my projects, please provide feedback and star them.
 
