@@ -15,6 +15,6 @@ If you are using my projects, please provide feedback and star them.
 Thank you.
 
 My quick summary:
-* 5 000+ [GitHub](https://github.com/monitoringartist/) stars
-* 12 000 000+ [Grafana dashboard](https://grafana.com/orgs/monitoringartist) downloads
 * 72 000 000+ [Docker images](https://hub.docker.com/u/monitoringartist/) downloads
+* 12 000 000+ [Grafana dashboard](https://grafana.com/orgs/monitoringartist) downloads
+* 5 000+ [GitHub](https://github.com/monitoringartist/) stars
